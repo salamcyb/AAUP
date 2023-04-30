@@ -2,7 +2,7 @@
 script for brute force password account University
 
 
-To run pls add your list password in file "password.tx"
+To run pls add your list password in file "password.txt"
 
 then install lib : pip install -r requirements.txt
 
